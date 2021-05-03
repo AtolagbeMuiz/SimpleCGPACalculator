@@ -1,0 +1,16 @@
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\LabAssignment4\bin\Debug\net5.0\LabAssignment4.exe
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\LabAssignment4\bin\Debug\net5.0\LabAssignment4.deps.json
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\LabAssignment4\bin\Debug\net5.0\LabAssignment4.runtimeconfig.json
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\LabAssignment4\bin\Debug\net5.0\LabAssignment4.runtimeconfig.dev.json
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\LabAssignment4\bin\Debug\net5.0\LabAssignment4.dll
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\LabAssignment4\bin\Debug\net5.0\ref\LabAssignment4.dll
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\LabAssignment4\bin\Debug\net5.0\LabAssignment4.pdb
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\LabAssignment4\obj\Debug\net5.0\LabAssignment4.csprojAssemblyReference.cache
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\LabAssignment4\obj\Debug\net5.0\LabAssignment4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\LabAssignment4\obj\Debug\net5.0\LabAssignment4.AssemblyInfoInputs.cache
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\LabAssignment4\obj\Debug\net5.0\LabAssignment4.AssemblyInfo.cs
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\LabAssignment4\obj\Debug\net5.0\LabAssignment4.csproj.CoreCompileInputs.cache
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\LabAssignment4\obj\Debug\net5.0\LabAssignment4.dll
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\LabAssignment4\obj\Debug\net5.0\ref\LabAssignment4.dll
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\LabAssignment4\obj\Debug\net5.0\LabAssignment4.pdb
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\LabAssignment4\obj\Debug\net5.0\LabAssignment4.genruntimeconfig.cache
